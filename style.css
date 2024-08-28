@@ -44,3 +44,25 @@ main{
 .mensaje:focus{
     outline: none;
 }
+.botones{
+    display: flex;
+    margin-top: 18px;
+}
+.btn-encriptar{
+    background-color: #0A3871;
+    border: 1 px solid #0A3871;
+    border-radius: 24 px;
+    color: white;
+    cursor: pointer;
+    height: 67px;
+    width: 328 px;
+}
+.btn-desencriptar{
+    background-color: #0A3871;
+    border: 1 px solid #0A3871;
+    border-radius: 24 px;
+    color: white;
+    cursor: pointer;
+    height: 67px;
+    width: 328 px;
+}
